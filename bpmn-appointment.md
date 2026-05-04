@@ -85,11 +85,7 @@
     <bpmn:participant id="Participant_0i865y3" name="Сервис VetHub" processRef="Process_13i4exb" />
     <bpmn:participant id="Participant_1i4qc4s" name="Система клиники" />
     <bpmn:participant id="Participant_16owuf9" name="Тех поддержка" />
-    <!-- Message flows omitted for brevity — see full XML in source -->
   </bpmn:collaboration>
 
-  <!-- Full XML available in source repository -->
 </bpmn:definitions>
 ```
-
-> Полный XML файл: [`bpmn/appointment-booking.bpmn`](../../bpmn/appointment-booking.bpmn) *(добавить в репозиторий отдельным файлом)*
