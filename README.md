@@ -55,15 +55,15 @@ cat docs/api/rest-api-spec.md
 
 | Артефакт | Файл | Статус |
 |---|---|---|
-| Функциональные требования (UC) | `docs/requirements/functional-requirements.md` 
-| Нефункциональные требования | `docs/requirements/non-functional-requirements.md`
-| RACI + вопросы стейкхолдеров | `docs/requirements/stakeholders.md`
-| REST API (OpenAPI 3.0) | `docs/api/rest-api-spec.md`
-| AsyncAPI / Kafka (Avro) | `docs/api/async-api-spec.md`
-| Модель данных | `docs/data/data-storage.md`
-| BPMN-процесс записи | `docs/processes/bpmn-appointment.md`
-| Стратегия платформизации | `docs/architecture/platformization.md`
-| Архитектурный обзор | `docs/architecture/overview.md`
+| Функциональные требования (UC) | `docs/requirements/functional-requirements.md` | ✅ Готово |
+| Нефункциональные требования | `docs/requirements/non-functional-requirements.md` | ✅ Готово |
+| RACI + вопросы стейкхолдеров | `docs/requirements/stakeholders.md` | ✅ Готово |
+| REST API (OpenAPI 3.0) | `docs/api/rest-api-spec.md` | ✅ Готово |
+| AsyncAPI / Kafka (Avro) | `docs/api/async-api-spec.md` | ✅ Готово |
+| Модель данных | `docs/data/data-storage.md` | ✅ Готово |
+| BPMN-процесс записи | `docs/processes/bpmn-appointment.md` | ✅ Готово |
+| Стратегия платформизации | `docs/architecture/platformization.md` | ✅ Готово |
+| Архитектурный обзор | `docs/architecture/overview.md` | 🔲 Шаблон |
 
 ---
 
